@@ -1,27 +1,39 @@
-# Essentials
+# Mini-Projet Angular - Formation Udemy (Maximilian Schwarzmüller)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+Ce projet a été réalisé dans le cadre de la formation **"Angular - The Complete Guide (2025 Edition)"** de Maximilian Schwarzmüller sur Udemy.
 
-## Development server
+**Objectif** : Mettre en pratique les bases d'Angular à travers un mini-projet guidé.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Concepts Angular abordés
 
-## Code scaffolding
+- Création de composants
+- Data binding (liaison de données)
+- Property & Event Binding
+- Communication entre composants (Input/Output)
+- Utilisation de directives
+- Manipulation du DOM avec Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Aperçu
 
-## Build
+![Aperçu du projet](src\assets\screenshot.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technologies
 
-## Running unit tests
+- Angular 17+
+- TypeScript
+- HTML/CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Statut
 
-## Running end-to-end tests
+Projet terminé  
+Je continue la formation pour explorer les sujets suivants :
+- Services & Dependency Injection
+- Routing Angular
+- Formulaires (Template-driven et Reactive)
+- Requêtes HTTP
+- Gestion d'état
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🔗 Liens utiles
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [Formation Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)  
+- [Profil LinkedIn](https://www.linkedin.com/in/kevin-maldonado-a17864295)

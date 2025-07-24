@@ -15,7 +15,7 @@ Ce projet a été réalisé dans le cadre de la formation **"Angular - The Compl
 
 ## Aperçu
 
-![Aperçu du projet](src\assets\screenshot.png)
+![Aperçu du projet](src/assets/screenshot.png)
 
 ## Technologies
 

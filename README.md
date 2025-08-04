@@ -36,4 +36,4 @@ Je continue la formation pour explorer les sujets suivants :
 ## 🔗 Liens utiles
 
 - [Formation Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)  
-- [Profil LinkedIn](https://www.linkedin.com/in/kevin-maldonado-a17864295)
+- [Profil LinkedIn](https://www.linkedin.com/in/kevin-maldonado-km)
